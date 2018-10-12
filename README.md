@@ -1,6 +1,6 @@
 # Hello DSC-extended peeps!
 
-## Exercise-Set-2 is up now!
+## Exercise-Set-2 is up now! Start Solving!
 
 ### Fork this Repository first!
 
