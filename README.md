@@ -2,6 +2,8 @@
 
 ## Exercise-Set-2 is up now! Start Solving!
 
+The deadline for solving is the October 25, 2018.
+
 ### Fork this Repository first!
 
 Starting off with GitHub.
