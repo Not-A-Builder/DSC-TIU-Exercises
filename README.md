@@ -2,7 +2,7 @@
 
 ## Exercise-Set-2 is up now! Start Solving!
 
-The deadline for solving is October 25, 2018.
+The deadline for solving is October 25 (Thursday), 2018.
 
 ### Fork this Repository first!
 
