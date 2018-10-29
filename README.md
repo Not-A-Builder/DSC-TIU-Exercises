@@ -1,6 +1,6 @@
 # Hello DSC-extended peeps!
 
-## Exercise-Set-2 is up now! Start Solving!
+## Exercise-Set-2 is up now!
 
 The deadline for solving is October 27 (Saturday), 2018.
 Check Instructions for Exercise Set 1 for instructions.
