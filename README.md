@@ -4,7 +4,6 @@
 
 #### Check out ExSet_2_Solutions.ipynb
 
-Check Instructions for Exercise Set 1 for instructions.
 
 ### Fork this Repository first!
 
@@ -13,5 +12,7 @@ In case you have any problems in the future, feel free to look up https://guides
 for a comprehensive understanding.
 
 ### Read Instructions-for-ExSet-1 first before starting working on the ipynb notebook
+
+Check Instructions for Exercise Set 1 for instructions.
 
 Do More!
