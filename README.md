@@ -2,7 +2,7 @@
 
 ## The solution for Exercise-Set-2 is out now!
 
-Check out Solutions-Ex-Set-2 now.
+Check out ExSet_2_Solutions.
 
 Check Instructions for Exercise Set 1 for instructions.
 
