@@ -2,7 +2,6 @@
 
 ## The solution for Exercise-Set-2 is out now!
 
-The deadline for solving is October 27 (Saturday), 2018.
 Check Instructions for Exercise Set 1 for instructions.
 
 ### Fork this Repository first!
