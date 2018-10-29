@@ -2,6 +2,8 @@
 
 ## The solution for Exercise-Set-2 is out now!
 
+Check out Solutions-Ex-Set-2 now.
+
 Check Instructions for Exercise Set 1 for instructions.
 
 ### Fork this Repository first!
