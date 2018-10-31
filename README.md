@@ -4,6 +4,7 @@
 
 #### Check out ExSet_2_Solutions.ipynb
 
+We will be starting off Exercise Set 3 shortly.
 
 ### Fork this Repository first!
 
