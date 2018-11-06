@@ -6,6 +6,8 @@
 
 ## Exercise Set 3 will drop soon!
 
+Approximate date: Sunday, November 11, 2018.
+
 ### Fork this Repository first!
 
 Starting off with GitHub.
