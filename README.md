@@ -6,8 +6,8 @@
 
 ## Exercise Set 3 will drop soon!
 
-Approximate date: Sunday, November 11, 2018.
-Pre-equisites: Nothing much.
+Approximate date: Sunday, November 11, 2018.  
+Pre-equisites: Nothing much.  
 
 ### Fork this Repository first!
 
