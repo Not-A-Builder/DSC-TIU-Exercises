@@ -1,12 +1,13 @@
 # Hello DSC-extended peeps!
 
-## The solution for Exercise-Set-2 is out now!
+## :octocat: Exercise_Set_3 Added!
 
-#### Check out ExSet_2_Solutions.ipynb
+Check it out!
 
-## Exercise Set 3 will drop soon!
+### The solution for Exercise-Set-2 is out now!
 
-Pre-equisites: Nothing much.  
+##### Check out ExSet_2_Solutions.ipynb
+
 
 ### Fork this Repository first!
 
