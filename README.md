@@ -6,7 +6,6 @@
 
 ## Exercise Set 3 will drop soon!
 
-Approximate date: Sunday, November 11, 2018.  
 Pre-equisites: Nothing much.  
 If you've solved Exercise Sets 1 and 2, you will be fine.
 
