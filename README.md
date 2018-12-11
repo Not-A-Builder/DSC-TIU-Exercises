@@ -1,6 +1,6 @@
 # Hello DSC-extended peeps!
 
-## :octocat: Exercise_Set_3 Added!
+## :octocat: Exercise_Set_3 Added!!
 
 Check it out!
 
