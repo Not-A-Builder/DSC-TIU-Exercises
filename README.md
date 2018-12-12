@@ -21,4 +21,4 @@ for a comprehensive understanding.
 ### Read Instructions first before starting working on the ipynb notebook
 
 
-:octocat: Do More! :octocat:
+:octocat: **Do More! :octocat:
